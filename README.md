@@ -6,7 +6,7 @@ Mobile application developer
 
 * 🌍  I'm based in BAGHDAD - IRAQ
 * 🖥️  See my portfolio at [mustafa amer](http://github.com/mamer12)
-* ✉️  You can contact me at [mustafa.amer.99.24@gmail.com](mailto:mustafa.amer.99.24@gmail.com)
+* ✉️  You can contact me at [mamer.ma1234@gmail.com](mailto:mustafa.amer.99.24@gmail.com)
 * 🧠  I'm learning Flutter, laravel , PMP and everything, hopefully become a full stack developer
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm secretly a superman .. but don’t tell anyone
