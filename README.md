@@ -5,7 +5,6 @@ Mobile application developer
 ----------------------------
 
 * 🌍  I'm based in BAGHDAD - IRAQ
-* 🖥️  See my portfolio at [mustafa amer](http://github.com/mamer12)
 * ✉️  You can contact me at [mamer.ma1234@gmail.com](mailto:mustafa.amer.99.24@gmail.com)
 * 🧠  I'm learning Flutter, laravel , PMP and everything, hopefully become a full stack developer
 * 🤝  I'm open to collaborating on projects
@@ -43,4 +42,3 @@ Mobile application developer
 
 <a href="http://www.github.com/mamer12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mamer12&stroke=444e59&background=000000&ring=f97316&fire=f97316&currStreakNum=444e59&currStreakLabel=f97316&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-<a href="http://www.github.com/mamer12"><img src="https://activity-graph.herokuapp.com/graph?username=mamer12&bg_color=000000&color=444e59&line=f97316&point=444e59&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
