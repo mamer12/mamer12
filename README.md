@@ -1,7 +1,6 @@
 Hi 👋 My name is MUSTAFA AMER
 =============================
-<a href="https://app.daily.dev/ma_mer12"><img src="https://api.daily.dev/devcards/fefd348b97f74b1486da8df2ce9c29ca.png?r=a5y" width="400" alt="Mustafa Amer's Dev Card"/></a>
-Mobile application developer
+Full Stack Developer
 ----------------------------
 
 * 🌍  I'm based in BAGHDAD - IRAQ
