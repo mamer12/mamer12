@@ -5,7 +5,7 @@ Full Stack Developer
 
 * 🌍  I'm based in BAGHDAD - IRAQ
 * ✉️  You can contact me at [mamer.ma1234@gmail.com](mailto:mustafa.amer.99.24@gmail.com)
-* 🧠  I'm learning Flutter, laravel , PMP and everything, hopefully become a full stack developer
+* 🧠  I'm learning Project Managment, Ruby on rails , React JS and everything.
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm secretly a superman .. but don’t tell anyone
 
